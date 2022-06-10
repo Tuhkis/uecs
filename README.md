@@ -4,9 +4,9 @@ is an framework agnostic ECS, for games adn such, with unusual hscript support.
 # Example
 You need HXGF for the example. Install it with
 ```
-haxelib install hxgf
+$ haxelib install hxgf
 ```
-$ To compile the example run:
+To compile the example run:
 ```
 $ haxe build.hxml
 ```
