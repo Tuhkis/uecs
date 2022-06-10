@@ -1,0 +1,8 @@
+-p src
+
+-lib hxgf
+-lib hscript
+
+-m ecsexample.Main
+-js bin/js/index.js
+

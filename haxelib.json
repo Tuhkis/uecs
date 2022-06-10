@@ -1,0 +1,15 @@
+{
+  "name": "uecs",
+  "url" : "https://github.com/Tuhkis/uecs",
+  "license": "MIT",
+  "tags": ["ecs"],
+  "description": "Unusual Entity Component System is a framework agnostic ECS that features hscript support for games and such.",
+  "version": "0.0.1",
+  "classPath": "src/",
+  "releasenote": "Initial release, everything is working correctly. :D",
+  "contributors": ["Tuhkis"],
+		"dependencies": {
+										"hscript": "2.4.0"
+		},
+  "main": "ecsexample.Main"
+}
