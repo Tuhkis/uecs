@@ -1,6 +1,12 @@
 # Unusual Entity Component System
 is an framework agnostic ECS, for games adn such, with unusual hscript support.
-
+<br>
+# Installing
+Clone the repo as a zip and run in the same folder:
+```
+$ haxelib install uecs.zip
+```
+<br>
 # Example
 You need HXGF for the example. Install it with
 ```
